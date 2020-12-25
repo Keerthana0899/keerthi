@@ -1,2 +1,2 @@
 # keerthi
-keerthi rishi
+keerthi rishi for git command demonstration
